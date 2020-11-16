@@ -1,0 +1,74 @@
+/* stylesheet */
+
+html,
+body {
+  background-color: #302E2D;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img,
+.ollie-img {
+  max-width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
+  padding-top: 2em;
+}
+
+p,
+ul {
+  color: #939290;
+  text-align: center;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  padding-top: 2em;
+}
+
+ul {
+  list-style-type: none;
+  padding-bottom: 2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #DDDDDD;
+}
+
+.back-button {
+  padding-left: 2em;
+  padding-bottom: 2em;
+}
+
+@media only screen and (max-width: 600px) {
+  img,
+  .ollie-img {
+    max-width: 80%;
+    height: auto;
+  }
+
+  p,
+  ul {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* @media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3) {
+    img,
+    .ollie-img {
+      max-width: 80%;
+      height: auto;
+    }
+} */
