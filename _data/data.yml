@@ -1,0 +1,111 @@
+# this is where the page information is going to go
+
+page1:
+  image: img/bag.png
+  alt: Oliver, an orange cat, stands on a desk. He is facing to the side, and his entire head is covered by a white paper bag.
+  text: Hello, Jon. Apologies for the deception. I implore you to pick a color.
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: page2.html
+  link2: page3.html
+  link3: page4.html
+
+page2:
+  image: img/bird-watching.png
+  alt: An above view of Oliver, an orange cat who is sitting on a windowsill. He is looking out the window at the grass and bushes below. There is a pumpkin to his left.
+  text: Pick a god and pray, little man. Death is coming, and she is not nearly as kind.
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: page3.html
+  link2: page4.html
+  link3: page5.html
+
+page3:
+  image: img/box.png
+  alt: An above view of Oliver, an orange cat. He is sitting in a small, rectangular cardboard box and looking at the camera.
+  text: I have never once asked for forgiveness. I have never once needed it.
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: page4.html
+  link2: page5.html
+  link3: page6.html
+
+page4:
+  image: img/cereal-boy.png
+  alt: A side shot of Oliver, an orange cat. He is sitting in front of two metal food bowls. The bowl on the left is mostly empty, but still has some wet cat food left in it. The bowl on the right is full of Honey Nut Cheerios.
+  text: When Eve ate of the apple, she was granted forbidden knowledge that changed her life forever. When I ate of the Cheerios, so too was my life changed.
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: page5.html
+  link2: page6.html
+  link3: page7.html
+
+page5:
+  image: img/him-beans.png
+  alt: An above shot of Oliver, an orange kitten. He is upside down and on his back, facing just above the camera. Both of his feet are raised, and he is clutching one of them with both paws.
+  text: The indignities we suffer while living are nothing compared to those suffered by the dead.
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: page6.html
+  link2: page7.html
+  link3: page8.html
+
+page6:
+  image: img/jimmy-buffet.png
+  alt: A side shot of Oliver, an orange kitten. He is facing to the right, and his face is slightly blurry. He is wearing a light blue Hawaiian shirt that is patterned with white clouds, blue palm trees, and pink flowers.
+  text: I did not choose the island life, the island life gripped me between its coconut fangs and refused to let go.
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: page7.html
+  link2: page8.html
+  link3: page9.html
+
+page7:
+  image: img/lounging.png
+  alt: an above shot of Oliver, an orange kitten. He is laying on his side on a gold-colored armchair that is patterned with gold circles. He is facing to the left. His eyes are wide and his tail is curved, like he is about to start moving.
+  text: Have you ever had the urge to just start screaming?
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: page8.html
+  link2: page9.html
+  link3: page10.html
+
+page8:
+  image: img/rug.png
+  alt: A front shot of Oliver, an orange kitten. He is perched on top of a rolled-up carpet that has been propped up on its edge. He only looks a little bit smug.
+  text: There is no such thing as too much fun.
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: page9.html
+  link2: page10.html
+  link3: index.html
+
+page9:
+  image: img/sleepy-boy.png
+  alt: An above shot of Oliver, an orange kitten. He is curled up in a white, circular cat bed that is only a little bit too small for him. The cat bed is sitting on top of a black printer. Oliver's legs are hanging off the edge of the cat bed, and he is covering his face with a paw.
+  text: Even demons must rest.
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: page10.html
+  link2: index.html
+  link3: page2.html
+
+page10:
+  image: img/toast.png
+  alt: A close-up side shot of Oliver, an orange kitten. He is sitting on a kitchen table, hunched over a small white plate of torn-up bits of toast. He is sniffing the biggest piece.
+  text: Wouldst thou live deliciously?
+  choice1: Red
+  choice2: Yellow
+  choice3: Blue
+  link1: index.html
+  link2: page2.html
+  link3: page3.html
