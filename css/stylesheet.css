@@ -6,7 +6,6 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-img,
 .ollie-img {
   max-width: 50%;
   height: auto;
@@ -15,21 +14,23 @@ img,
   padding-top: 2em;
 }
 
-p,
-ul {
-  color: #939290;
+p {
   text-align: center;
+}
+
+.text {
+  color: #939290;
   max-width: 50%;
+  padding-top: 2em;
   margin-left: auto;
   margin-right: auto;
 }
 
-p {
-  padding-top: 2em;
-}
-
-ul {
+.links {
   list-style-type: none;
+  text-align: center;
+  display: block;
+  margin: none;
   padding-bottom: 2em;
 }
 
@@ -48,28 +49,14 @@ a:hover {
 }
 
 @media only screen and (max-width: 600px) {
-  img,
   .ollie-img {
     max-width: 80%;
     height: auto;
   }
 
-  p,
-  ul {
+  .text {
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
   }
 }
-
-/* @media only screen
-  and (min-device-width: 375px)
-  and (max-device-width: 812px)
-  and (-webkit-min-device-pixel-ratio: 3) {
-    img,
-    .ollie-img {
-      max-width: 80%;
-      height: auto;
-    }
-} */
